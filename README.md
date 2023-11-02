@@ -11,3 +11,4 @@ git reset --hard удалить все изменения в файлах
 git branch проверка веток
 git branch [branch_name]
 git checkout [название_ветки_на_которую_переключаемся] выход из ветки
+git pull origin [branch_name] после merge вытягиваем данные с github
