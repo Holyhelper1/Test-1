@@ -8,3 +8,6 @@ git push origin main
 git reset [file_Name] удаляет фаил из стэйдж если добавили ошибочно
 git diff показывает какие строчки мы изменили
 git reset --hard удалить все изменения в файлах
+git branch проверка веток
+git branch [branch_name]
+git checkout [название_ветки_на_которую_переключаемся] выход из ветки
