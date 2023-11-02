@@ -1,4 +1,5 @@
 # Test-1
+git clon [URL]
 git status
 git add [filesName] или просто точка . чтобы добавить все файлы в stage
 git commit -m "comment" вносим изменения в ветке в стэйдж
