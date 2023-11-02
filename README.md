@@ -1,7 +1,7 @@
 # Test-1
 git status
 git add [filesName] или просто точка . чтобы добавить все файлы в stage
-git commit -m "comment"
+git commit -m "comment" вносим изменения в ветке в стэйдж
 git log  / git log --oneline
 git push [rep_link] [branch_name]
 git push origin main
@@ -12,3 +12,4 @@ git branch проверка веток
 git branch [branch_name]
 git checkout [название_ветки_на_которую_переключаемся] выход из ветки
 git pull origin [branch_name] после merge вытягиваем данные с github
+git branch -d [branch_name] удаляет ветку
